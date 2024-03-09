@@ -86,35 +86,7 @@ The application is deployed and can be accessed [here](https://job-portal-beryl-
 └── userModel.js
 
 
-## Contributors
 
-- **Vatsal Patel**
-  - API Development:
-    - Implemented APIs for managing jobs, authentication, and navigation on the client-side.
-    - Created database schemas and handled database setup.
-  - Project Setup:
-    - Set up the initial project structure and configurations.
-
-- **Drashti Adhyaru**
-  - API Development:
-    - Implemented APIs for managing resumes and requests.
-    - Worked on the README file to provide project details and documentation.
-  - Deployment:
-    - Deployed the project to the production environment.
-
-- **George David**
-  - UI Design:
-    - Designed the user interface for the application.
-    - Created UI components for functionalities such as Add Job, Apply Job, View Job, and Resume.
-  - API Integration:
-    - Integrated UI components with backend APIs to enable functionality.
-
-- **Lidia Abey**
-  - Feature Development:
-    - Implemented filter and search functionality.
-    - Fixed bugs and handled other miscellaneous issues in the application.
-
-# Job Portal API Documentation
 ## Users
 
 ### Signup
